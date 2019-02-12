@@ -1,6 +1,6 @@
 # Greetings
 # This is some simple reference node test data that can be imported
-# into the database for manipulation an d testing
+# into the database for manipulation and testing
 
 # SETUP HOWTO
 # Rememer to first create a database
